@@ -1,1 +1,1 @@
-This is the landing page project from Odin Project
+This is the landing page project from Odin Project. The file odin-project.png is the template I tried recreating using HTML and CSS
